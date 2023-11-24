@@ -219,8 +219,10 @@ partition.num=4
 # Component Download
 
 
-Download: https://dl.dlink.cloud/client/kafka_bridge-v1.3.7.zip
+Download: https://dl.dlink.cloud/client/kafka_bridge-v1.6.5.zip
 
+# Steps to Update the KafkaBridge License
 
+**Steps to Update the KafkaBridge License:** [Software-License-Activation.md](https://github.com/DLinkSDK/kafka-bridge/blob/main/Software-License-Activation.md)
 
 
