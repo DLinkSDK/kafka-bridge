@@ -219,7 +219,16 @@ partition.num=4
 # Component Download
 
 
-Download: https://dl.dlink.cloud/client/kafka_bridge-v1.6.5.zip
+ * **Server: kafka2tcp**
+   
+Download: https://dl.dlink.cloud/server/kafka2tcp_bin_kernel-6_Ubuntu.tar
+
+
+* **Client: tcp2kafka**
+* **Client: openresty-http2tcp**
+* **Server: openresty-tcp2http**
+
+Download: https://dl.dlink.cloud/client/kafka-bridge-v2.0.16.zip
 
 # Steps to Update the KafkaBridge License
 
