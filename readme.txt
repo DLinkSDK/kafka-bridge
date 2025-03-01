@@ -7,7 +7,6 @@ Kafka2tcp.ini is the kafka2tcp configuration file, you need to download the bina
 openresty requires an additional load of http and zlib libraries
 
 
-
 The zlib library is compiled and installed in the directory
 
 Openresty download: https://openresty.org/en/download.html

@@ -5,7 +5,7 @@ Access the machine where the component is deployed and review the file located a
 
 ![License](img/License.png "License.png")
 
-The expiration date shown in the image above is May 15, 2023.
+The expiration date shown in the image above is May 13, 2025.
 
 ### How to Obtain a New License?
 
